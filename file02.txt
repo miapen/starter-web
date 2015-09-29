@@ -1,0 +1,7 @@
+This is file02. With 3 Paragraphs.
+
+Paragraph1
+
+Paragraph2
+
+Paragraph3
